@@ -4,14 +4,13 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uva.br/">Universidade Veiga de Almeida</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java | JavaScript | SASS | HTML | CSS | GIT**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript | SASS | HTML | CSS | GIT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 
 **Aplicações**
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

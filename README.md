@@ -3,7 +3,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de sistemas** na <a href="https://www.uva.br/">Universidade Veiga de Almeida</a>.
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de sistemas** na <a href="https://www.uva.br/">Universidade Veiga de Almeida</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript | SASS | HTML | CSS | GIT**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>

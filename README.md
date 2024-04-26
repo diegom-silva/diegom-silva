@@ -3,18 +3,17 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias.
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de sistemas** na <a href="https://www.uva.br/">Universidade Veiga de Almeida</a>.
+- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de sistemas** pela <a href="https://www.uva.br/">Universidade Veiga de Almeida</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **TypeScript, VueJS e NuxtJS**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-
-**Aplicações**
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>         
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40"/>      
@@ -22,7 +21,6 @@
 
 <br/>
 
-<a href="https://github.com/diegom-silva">
 <div>
 <a href="https://github.com/diegom-silva">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegom-silva&layout=compact&langs_count=7&theme=dracula"/>
